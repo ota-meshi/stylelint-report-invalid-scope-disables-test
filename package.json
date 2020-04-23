@@ -1,0 +1,22 @@
+{
+  "name": "stylelint-report-invalid-scope-disables-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "stylelint --report-invalid-scope-disables index.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ota-meshi/stylelint-report-invalid-scope-disables-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ota-meshi/stylelint-report-invalid-scope-disables-test/issues"
+  },
+  "homepage": "https://github.com/ota-meshi/stylelint-report-invalid-scope-disables-test#readme",
+  "devDependencies": {
+    "stylelint": "^13.3.3"
+  }
+}
